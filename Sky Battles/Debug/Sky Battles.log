@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Admin\source\repos\Admin\Sky Battles\main.cpp(134,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Admin\Sky Battles\main.cpp(207,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Admin\Sky Battles\main.cpp(208,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Admin\Sky Battles\main.cpp(237,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\Admin\Sky Battles\main.cpp(248,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Admin\Sky Battles\main.cpp(249,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Admin\Sky Battles\main.cpp(281,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\Admin\Sky Battles\main.cpp(293,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Admin\Sky Battles\main.cpp(294,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Sky Battles.vcxproj -> C:\Users\Admin\Source\Repos\Admin\Debug\Sky Battles.exe
