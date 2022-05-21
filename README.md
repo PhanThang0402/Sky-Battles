@@ -21,20 +21,20 @@
 
 ### b) Các ý tưởng chính:
 - Hệ thống các đối tượng: main, quái vật(3 con), đạn đạo.
-- Hệ thống âm thanh
-- Đồ họa bắt mắt
+- Hệ thống âm thanh.
+- Đồ họa bắt mắt.
 
 ### 3. Các chức năng được cài đặt trong trò chơi.
 - Hiệu ứng âm thanh: click chuột bắn đạn, bắn trúng quái vật, trúng đạn quái vật, nhạc nền.
 - Các chức năng chơi, menu, tương tác với chuột.
-- Hiển thị thời gian chơi, điểm số (giết 1 quái = 1 điểm)
-- Video demo [tại đây]()
+- Hiển thị thời gian chơi, điểm số (giết 1 quái = 1 điểm).
+- Video demo [tại đây](https://youtu.be/uROIj4nNHuY)
 
 ### 4. Các kỹ thuật lập trình được sử dụng trong chương trình. 
 - Kỹ thuật lập trình đồ họa, âm thanh bằng SDL
 - Kỹ thuật lập trình hướng đối tượng.
-- Kỹ thuật tách file
-- Con trỏ, mảng, cấu trúc, lớp, sinh số ngẫu nhiên
+- Kỹ thuật tách file.
+- Con trỏ, mảng, cấu trúc, lớp, sinh số ngẫu nhiên.
 - Xử lý va chạm,vụ nổ,...
 
 ### 5. Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình. 
