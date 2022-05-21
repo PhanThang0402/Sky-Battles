@@ -17,4 +17,37 @@
 - Cách chơi :
     + Điều khiển máy bay bằng các phim mũi tên di chuyển né tránh quái vật, đạn đạo.
     + Sử dụng chuột trái/phải để bắn đạn tiêu diệt quái vật (2 loại đạn).
-    
+    + Nếu va chạm với quái vật hoặc đạn thì máy bay nổ, trò chơi kết thúc.
+
+### b) Các ý tưởng chính:
+- Hệ thống các đối tượng: main, quái vật(3 con), đạn đạo.
+- Hệ thống âm thanh
+- Đồ họa bắt mắt
+
+### 3. Các chức năng được cài đặt trong trò chơi.
+- Hiệu ứng âm thanh: click chuột bắn đạn, bắn trúng quái vật, trúng đạn quái vật, nhạc nền.
+- Các chức năng chơi, menu, tương tác với chuột.
+- Hiển thị thời gian chơi, điểm số (giết 1 quái = 1 điểm)
+- Video demo [tại đây]()
+
+### 4. Các kỹ thuật lập trình được sử dụng trong chương trình. 
+- Kỹ thuật lập trình đồ họa, âm thanh bằng SDL
+- Kỹ thuật lập trình hướng đối tượng.
+- Kỹ thuật tách file
+- Con trỏ, mảng, cấu trúc, lớp, sinh số ngẫu nhiên
+- Xử lý va chạm,vụ nổ,...
+
+### 5. Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình. 
+#### a) 
+
+
+
+
+### 6. Các nguồn tài liệu tham khảo
+- Các câu lệnh trong SDL: https://www.libsdl.org/
+- Âm thanh game: https://freesound.org/
+- Hình ảnh (open source) :
+    + https://www.pngwing.com/
+    + https://itch.io/
+
+- https://phattrienphanmem123az.com/
