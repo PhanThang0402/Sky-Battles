@@ -49,7 +49,10 @@
 - Dừng màn hình, thêm boss.
 
 ### 6. Các nguồn tài liệu tham khảo
-- Các câu lệnh trong SDL: https://www.libsdl.org/
+- Các câu lệnh trong SDL:      
+
+    + https://www.libsdl.org/
+    + https://www.stdio.vn/search?
 - Âm thanh game: https://freesound.org/
 - Hình ảnh (open source) :
     + https://www.pngwing.com/
