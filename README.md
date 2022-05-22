@@ -14,6 +14,9 @@
 ### 2.Mô tả chung về trò chơi, các ý tưởng chính
 #### a) Mô tả chung về trò chơi:
 - Tên trò chơi: Sky Battles.
+- Ảnh Demo: 
+![demoGame](Debug/demoGame.png)
+
 - Cách chơi :
     + Điều khiển máy bay bằng các phim mũi tên di chuyển né tránh quái vật, đạn đạo.
     + Sử dụng chuột trái/phải để bắn đạn tiêu diệt quái vật (2 loại đạn).
