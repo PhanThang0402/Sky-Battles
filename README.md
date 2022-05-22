@@ -38,10 +38,15 @@
 - Xử lý va chạm,vụ nổ,...
 
 ### 5. Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình. 
-#### a) 
+#### a) Điều tâm đăc:
+- Học được các kiến thức về đồ họa, SDL, biết và hiểu cơ bản cách tạo ra 1 trò chơi 2D.
+- Củng cố kiến thức C++.
 
-
-
+#### b) Hướng phát triển:
+- Thêm quái vật, thay đổi quỹ đạo đạn.
+- Thêm bảng xếp hạng.
+- Thêm nhiều loại máy bay để lựa chọn.
+- Dừng màn hình, thêm boss.
 
 ### 6. Các nguồn tài liệu tham khảo
 - Các câu lệnh trong SDL: https://www.libsdl.org/
