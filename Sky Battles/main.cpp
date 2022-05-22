@@ -156,7 +156,7 @@ int main(int arc, char* argv[]) {
 	while (!is_quit)
 	{
 		
-		while (SDL_PollEvent(&g_even))
+		while (SDL_PollEvent(&g_even)) 
 		{
 			if (g_even.type == SDL_QUIT)
 			{

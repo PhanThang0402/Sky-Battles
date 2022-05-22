@@ -79,7 +79,7 @@ int SDLCommonFunc::ShowMenu(SDL_Surface* des, TTF_Font* font)
 				break;
 			}
 		}
-		SDL_Flip(des);
+		SDL_Flip(des);   // update màn hình 
 	}
 	return 1;
 
@@ -123,7 +123,7 @@ void SDLCommonFunc::ApplySurfaceClip(SDL_Surface* src, SDL_Surface* des, SDL_Rec
 
 void SDLCommonFunc::Cleanup()                                  //clear man hinh
 {
-	SDL_FreeSurface(g_screen);
+	SDL_FreeSurface(g_screen);          
 	SDL_FreeSurface(g_background);
 }
 
